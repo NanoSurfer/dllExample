@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Person", "ClassLibrary1\Person.csproj", "{3449A320-5BF6-4748-8C39-B94486BCFED3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Student", "Student\Student.csproj", "{0D19AA6A-C21B-4AD7-9889-09B2F5FB9658}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3449A320-5BF6-4748-8C39-B94486BCFED3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3449A320-5BF6-4748-8C39-B94486BCFED3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3449A320-5BF6-4748-8C39-B94486BCFED3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3449A320-5BF6-4748-8C39-B94486BCFED3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D19AA6A-C21B-4AD7-9889-09B2F5FB9658}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D19AA6A-C21B-4AD7-9889-09B2F5FB9658}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D19AA6A-C21B-4AD7-9889-09B2F5FB9658}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D19AA6A-C21B-4AD7-9889-09B2F5FB9658}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
