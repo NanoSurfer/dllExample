@@ -59,8 +59,8 @@ namespace ClassLibrary1
         public Person(string id, string lname, string fname)
         {
             idNumber = id;
-            lname = lastName;
-            fname = firstName;
+            lastName = lname;
+            firstName = fname;
         }
 
         // Overrides toString()

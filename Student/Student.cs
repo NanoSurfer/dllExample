@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using ClassLibrary1;
 
-namespace Student
+namespace StudentNamespace
 {
     public class Student : Person
     {
@@ -49,5 +49,6 @@ namespace Student
         {
             return base.GetSleepAmt();
         }
+
     }
 }
